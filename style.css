@@ -1,0 +1,171 @@
+a,
+p {
+    color: #A5A5A5;
+}
+
+.main_section {}
+
+
+
+
+/*-- PART TWO */
+
+
+.part_two {
+    background-image: url(bg1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 100px;
+}
+
+.part {}
+
+.head_area {
+    padding-top: 50px;
+}
+
+.head_area nav {}
+
+.aaa {}
+
+.aaa a {}
+
+.aaa button {}
+
+.aaa button:hover {}
+
+.aab {}
+
+.aab ul {}
+
+.aab ul li {}
+
+.aab ul li a {}
+
+.aab ul li a:hover {}
+
+.section_content {
+    padding-bottom: 125px;
+}
+
+.aac {}
+
+.aac h3 {
+    color: #3B405F;
+    font-size: 23px;
+    font-weight: normal;
+    padding-top: 193px;
+}
+
+.aac p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.aac button {
+    padding: 5px;
+    border: 3px solid #182342;
+    border-radius: 25px;
+    background: transparent;
+}
+
+.aac button span {
+    padding: 40px;
+    color: #313959;
+}
+
+.aac button:hover {}
+
+.h21 {
+    color: #1A2545;
+    text-transform: uppercase;
+    font-size: 45px;
+}
+
+.h22 {
+    color: #3FA9F5;
+    font-size: 45px;
+    text-transform: uppercase;
+}
+
+
+/* PART ONE */
+.part_one {
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 324px;
+    background-size: 100% 80%;
+}
+
+.navigation_area {}
+
+.navbar {}
+
+.navbar a {
+    color: black;
+}
+
+.navbar button {}
+
+.navbar button span {}
+
+#navbarSupportedContent {}
+
+.navbar-nav {}
+
+.navbar-nav li {
+    background: transparent;
+    text-transform: uppercase;
+    border: 1px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+.navbar-nav li a {
+    color: #646464 !important;
+}
+
+.navbar-nav li a:hover {
+    background: #1765FF;
+    color: white !important;
+    border: 1px;
+    border-radius: 2px;
+    transition: all ease .5s
+}
+
+
+
+.content_section {}
+
+.row_1 {}
+
+.bbb row {}
+
+.bbb {}
+
+.bbb {}
+
+.bbb h2 {
+    padding-top: 150px;
+    color: #0C3C48;
+    margin-right: 25px;
+}
+
+.bbb p {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.bbb button {
+    background: #1765FF;
+    color: white;
+    text-transform: uppercase;
+    padding: 5px 15px;
+    border: 1px;
+    border-radius: 25px;
+}
+
+.ccc {}
+
+
